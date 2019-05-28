@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  studentID: 1
+  name: MyString
+  gender: MyString
+
+two:
+  studentID: 1
+  name: MyString
+  gender: MyString
